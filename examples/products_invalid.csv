@@ -1,0 +1,4 @@
+sku,name,category,supplier,price,quantity,reorder_level
+BAD-01,,Stationery,,45,-4,2
+BAD-01,Duplicate SKU,Stationery,,not-a-price,8,2
+GOOD-01,Valid Example,Stationery,,25,6,2

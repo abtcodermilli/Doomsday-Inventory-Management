@@ -1,0 +1,4 @@
+﻿sku,name,category,supplier,price,quantity,reorder_level
+IMP-101,Sticky Notes,Stationery,Paper House,45.00,25,5
+IMP-102,HDMI Cable,Electronics,Campus Tech,349.50,12,3
+IMP-103,Desk Mat,Accessories,Everyday Supplies,299.00,8,2
